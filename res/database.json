@@ -1,0 +1,33 @@
+{
+"points" : 
+[["desc", "id", "points"],
+["green_purple", "FISH1", "10"],
+["green_blue", "FISH2", "5"],
+["orange", "FISH3", "15"],
+["blue_rose", "FISH4", "20"],
+["orange_red", "FISH5", "30"],
+["orange_blue", "FISH6", "-10"],
+["orange_orange", "FISH7", "10"],
+["gray", "SHARK", "50"],
+["rose", "SEAHORSE", "20"],
+["purple", "SHELL1", "6"],
+["blue", "SHELL2", "6"],
+["green", "SHELL3", "6"],
+["orange", "STAR1", "8"],
+["green", "STAR2", "8"]],
+"bonus" : 
+[["type", "payload", "amount"],
+["BOMB", "bomb", "1"],
+["TIME", "time", "30"],
+["WORM", "worm", "10"],
+["TREASURE", "score", "100"],
+["GIFT1", "bomb", "1"],
+["GIFT2", "worm", "10"],
+["GIFT3", "score", "50"]],
+"levels" : 
+[["level", "target", "seconds"],
+["1", "20", "100"],
+["2", "50", "120"],
+["3", "100", "140"],
+["4", "150", "160"]]
+}

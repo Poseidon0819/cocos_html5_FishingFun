@@ -1,0 +1,8 @@
+.project
+bin
+fishingfun.iml
+.iml
+release
+.externalNativeBuild
+/build
+/jniLibs
